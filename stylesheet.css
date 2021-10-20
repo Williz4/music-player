@@ -1,5 +1,5 @@
 /*Styling Below*/
-@import url('https://fonts.googleapis.com/css2?family=Spartan: wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Andada+Pro:wght@400;500;600;700;800&display=swap');
 
 html {
   box-sizing: border-box;
@@ -12,7 +12,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: 'Spartan', sans-serif;
+      font-family: 'Andada Pro', serif;
   font-size: 12px;
 }
 
@@ -50,6 +50,7 @@ h2 {
   font-size: 25px;
   text-align: center;
   margin: 0;
+  font-weight: 800;
 }
 
 h3 {
@@ -57,6 +58,7 @@ h3 {
   text-align: center;
   font-weight: 400;
   margin: 5px 0 0;
+  font-weight: 500;
 }
 
 .progress-container {
